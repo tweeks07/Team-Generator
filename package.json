@@ -1,0 +1,30 @@
+{
+  "name": "Team-Generator",
+  "version": "1.0.0",
+  "description": "Building a team generatore",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweeks07/Team-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tweeks07/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/tweeks07/Team-Generator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
