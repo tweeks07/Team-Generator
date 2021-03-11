@@ -3,12 +3,15 @@ Building a team generator
 
 ## Task
 ---
-To build a Node.js command-;ine application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+To build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 ## Functionality
 ---
 - When the user runs the application 'node app.js' a prompt will generate in the command line
 - The user will use the command line to input their answers to the generated questions
 - When the questions have ended a new HTML will generate- reflecting the users input
+
+Image displays command-line generated HTML
+![](assets/images/Team-Generator.png)
 
 ## Deployment
 ---

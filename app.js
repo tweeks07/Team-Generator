@@ -135,6 +135,7 @@ function writeHTML (){
     console.log(employeeArray)
     const renderdEmployees = render(employeeArray)
     console.log(renderdEmployees)
+    fs.mkdirSync(OUTPUT_DIR)
     fs.writeFile(outputPath, renderdEmployees, err => {
         if (err)console.log ("Error!")
         else console.log ("File Written!")
