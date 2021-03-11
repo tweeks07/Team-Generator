@@ -4,7 +4,7 @@ const { expect } = require("@jest/globals");
 const Engineer = require("../lib/Engineer");
 
 test("Can set GitHUb account via constructor", () => {
-    const test = 1;
+    const test = "github";
     const engineer = new Engineer("Taylor", 7, "taylor@email.com", test);
     expect(engineer.engineerGithub).toEqual(test);
 
@@ -18,7 +18,7 @@ test("getRole() should return \"Engineer\"", () => {
 });
 
 test("Can get GitHub username via getGithub()", () => {
-    const test = 1;
+    const test = "github";
     const engineer = new Engineer("Taylor", 7, "taylor@email.com", test);
     expect(engineer.getGithub()).toEqual(test);
 
