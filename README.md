@@ -13,6 +13,11 @@ To build a Node.js command-line application that takes in information about empl
 Image displays command-line generated HTML
 ![](assets/images/Team-Generator.png)
 
+
+
+[Link to walk through video](https://drive.google.com/drive/folders/1KAzzc7FUWU57pEwkDQ-C8vuttqzEa35B?usp=sharing)
+
+
 ## Deployment
 ---
 The URL of the [deployed](https://tweeks07.github.io/Team-Generator/) application
