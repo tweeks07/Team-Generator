@@ -13,14 +13,14 @@ test("Can set office number via constructor argument", () => {
 
 test('getRole() should return "Manager"', () => {
     const test = "Manager";
-    const manager = new Manager("Taylor", 7, "taylor@email.com", 777)
+    const manager = new Manager("Taylor", 7, "taylor@email.com", 777);
     expect(manager.getRole()).toEqual(test);
 
 });
 
 test("Can get office number via getOffice()", () => {
     const test = 1;
-    const manager = new Manager("Taylor", 7, "taylor@email.com", test)
+    const manager = new Manager("Taylor", 7, "taylor@email.com", test);
     expect(manager.getOfficeNumber()).toEqual(test);
 
 });
