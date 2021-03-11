@@ -14,7 +14,7 @@ Image displays command-line generated HTML
 ![](assets/images/Team-Generator.png)
 
 
-
+![](assets/images/Team-Generator.gif)
 [Link to walk through video](https://drive.google.com/drive/folders/1KAzzc7FUWU57pEwkDQ-C8vuttqzEa35B?usp=sharing)
 
 
